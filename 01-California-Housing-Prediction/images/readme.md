@@ -10,8 +10,10 @@ Predict median house values (`MedHouseVal`) in California districts using regres
 - `requirements.txt` — Project dependencies.
 
 ##  les moyens d'evaluation
-| MAE | RMSE | R² Score |
+- MAE
+- RMSE
+- R² Score
 ## les models 
-| Linear Regression |
-| Ridge Regression |
-| Random Forest |
+- Linear Regression
+- Ridge Regression
+- Random Forest
